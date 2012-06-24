@@ -5,6 +5,9 @@
 <style>
 	/* Css Part */
 </style>
+<script>
+	/*script*/
+</script>
 </head>
 
 <body>
